@@ -19,7 +19,7 @@
 
 char *usage_opts[] = {
 	"usage:",
-	"    rename -i <src_dir>  [ -o <out_dir> ]  [-d N | -D N] [-s <prefix>] [-a <append>]",
+	"    rename -i <src_dir>  [ -o <out_dir> ]  [-d N] [-s <prefix>] [-a <append>]",
 	"Descript:",
 	"	文件名快速替换工具",
 	"params:",
